@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**OmarGomezDeveloper/OmarGomezDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Desarrollador de Software y Administrador de Empresas**
+:pencil:
+**Enfocado en desarrollo Backend**
+:eyeglasses: **Con conocimientos en MachineLearning**
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vias de Contacto
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OmarGomezDeveloper/git-github)
+
+![GitHub contributors](https://img.shields.io/github/contributors/OmarGomezDeveloper/git-github)
